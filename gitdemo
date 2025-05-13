@@ -1,8 +1,0 @@
-git add.(to add all files)
-git add*(to add all files except hiddenfiles)
-git commit(to move file from stageing area to localrepo)
-git push(to push file to gitrepo)
-git log(to check the commit ids)
-git show commitid(to show details)
-git branch(add,-d,to check branch status)
-
