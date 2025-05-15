@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://65.2.34.175:8081/repository/vaish-release/</url>
+	      <url>http://13.127.202.205:8081/repository/vaish-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://65.2.34.175:8081/repository/vaish-snapshot/</url>
+	      <url>http://13.127.202.205:8081/repository/vaish-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
